@@ -13,6 +13,10 @@ Ex4 - Curso de culinaria
 ![](entrega/cursos.png)
 ### Cadastrar curso
 ![](entrega/cadastro-curso.png)
+### Listagem de cursos (Visualização para edição e deleção)
+![](entrega/cursos-listagem.png)
+### Edição de cursos
+![](entrega/edicao-cursos.png)
 
 ## MockAPI
 
